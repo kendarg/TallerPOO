@@ -1,4 +1,3 @@
-# TallerPOO
 # Taller POO en JavaScript
 
 Este repositorio contiene una serie de ejercicios desarrollados en **JavaScript** con el objetivo de practicar los conceptos básicos de la **Programación Orientada a Objetos (POO)** mediante el uso de funciones constructoras y objetos.
